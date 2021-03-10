@@ -1,0 +1,3 @@
+/home/lgj/test_cudaprj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lgj/test_cudaprj/cmake-build-debug/CMakeFiles/cuda_testprj.dir
+/home/lgj/test_cudaprj/cmake-build-debug/CMakeFiles/edit_cache.dir
